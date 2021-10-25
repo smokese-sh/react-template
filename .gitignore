@@ -1,0 +1,5 @@
+node_modules/
+/src/server/dist/*
+!/src/server/dist/.exists
+config.json
+package-lock.json
